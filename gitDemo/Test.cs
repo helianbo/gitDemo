@@ -8,5 +8,7 @@ namespace gitDemo
 {
     class Test
     {
+
+        private string i = string.Empty;
     }
 }
